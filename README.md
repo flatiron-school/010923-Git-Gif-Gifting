@@ -31,6 +31,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Sean
 
+! [I'm in a glass case of emotion](https://media.tenor.com/TvewqI9O5KEAAAAC/anchorman-upset.gif)
+
 ### Parker
 
 ### Diego
