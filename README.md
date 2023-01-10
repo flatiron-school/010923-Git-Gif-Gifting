@@ -35,8 +35,6 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Diego
 
-### Mahmoud
-
 ### Charlie
 
 ### Rachael
@@ -54,6 +52,8 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Jake
 
 ### Beyza
+
+### Vincent
 
 ### Gligorco
 
