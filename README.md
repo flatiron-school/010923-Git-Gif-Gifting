@@ -41,6 +41,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Ryan
 
+!["Huh, pretty cool"](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)
+
 ### John
 
 ### DJ
