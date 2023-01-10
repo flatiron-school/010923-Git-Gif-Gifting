@@ -49,6 +49,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Paul
 
+![Fat and Sassy](https://media.tenor.com/WpguQtu5EYwAAAAM/fat.gif)
+
 ### Jake
 
 ### Beyza
