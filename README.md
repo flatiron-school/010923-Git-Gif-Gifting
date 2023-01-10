@@ -44,6 +44,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ### John
 
 ### DJ
+![Dancing Totoro](https://images.app.goo.gl/GFLk87bHnraXixzG6)
 
 ### Leo
 
